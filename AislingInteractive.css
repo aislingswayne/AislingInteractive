@@ -1,0 +1,40 @@
+body{
+
+  background-color: lightpink;
+    font-family: oswald;
+    }
+
+    h1 {
+        color: blue;
+        text-align: center;
+    }
+
+    #container {
+        position: absolute;
+        top: 40px;
+        left: 200px;
+        width: 600px;
+        height: 500px;
+        cursor: pointer;
+    }
+
+    #snowman {
+        position: relative;
+        top: 5px;
+    }
+
+    img {
+        height: 100px;
+        width: 100px;
+        position: absolute;
+        top: 60px;
+        left: 180px;
+    }
+
+    #hat {
+        fill: black;
+    }
+
+    #hat2 {
+        fill: black;
+    }
